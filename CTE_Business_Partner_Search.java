@@ -14,7 +14,6 @@ import java.util.Scanner;
  * FBLA Coding & Programming Competitive Event
  * CTE Department Partners 
  * Vicente Santos-Linares
- * Eli Marountas
  * ============================================*/
 public class CTE_Business_Partner_Search extends JPanel implements ActionListener {
     // Data Fields
